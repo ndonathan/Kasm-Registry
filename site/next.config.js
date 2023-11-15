@@ -2,8 +2,8 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Kasm Technologies - NDonathan',
+    description: 'Kasm workspaces from linuxserver.io, kasmtech, and custom images',
     icon: '/img/logo.svg',
     listUrl: 'https://ndonathan.github.io/kasm-registry/',
     contactUrl: 'https://kasmweb.com/support',
